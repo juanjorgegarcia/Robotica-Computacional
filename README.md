@@ -6,3 +6,6 @@ Link para o video do exercício resolvido:
 https://www.youtube.com/watch?v=7fjr-P9UIFM
 
 Felippe Teracini, Henrique Guazzelli, Juan Jorge Garcia
+
+## Aula 03:
+Guilherme Moraes, Juan Garcia, Lucas Vaz

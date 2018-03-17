@@ -9,3 +9,7 @@ Felippe Teracini, Henrique Guazzelli, Juan Jorge Garcia
 
 ## Aula 03:
 Guilherme Moraes, Juan Garcia, Lucas Vaz
+
+
+## Aula 04 :
+Guilherme Moraes, Juan Garcia, Rebeca Triñanes
